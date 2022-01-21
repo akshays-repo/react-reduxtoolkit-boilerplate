@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+
+.css-1nrlq1o-MuiFormControl-root {
+  width: 100%;
+}
